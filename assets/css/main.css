@@ -39,6 +39,11 @@ body {
 	justify-content: center;
 }
 
+.major-icons {
+	display: flex;
+	flex-wrap: wrap;
+}
+
 ol, ul {
 	list-style: none;
 }
